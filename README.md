@@ -14,5 +14,5 @@ You will also see any lint errors in the console.
 
 ### Tut Details
 
-Author: Leigh Halliday
+Author: Leigh Halliday <br />
 tut: [https://www.youtube.com/watch?v=TxEVnaISj1w](https://www.youtube.com/watch?v=TxEVnaISj1w)
